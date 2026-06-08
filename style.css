@@ -1,0 +1,28 @@
+body{
+    font-family: Arial;
+    margin:0;
+}
+
+nav{
+    background:black;
+    color:white;
+    padding:15px;
+}
+
+.hero{
+    text-align:center;
+    padding:100px 20px;
+}
+
+.features{
+    display:flex;
+    gap:20px;
+    justify-content:center;
+    flex-wrap:wrap;
+}
+
+.card{
+    padding:20px;
+    border:1px solid gray;
+    width:250px;
+}
